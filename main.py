@@ -5,11 +5,11 @@ startTime = datetime.now()
 print(f'start time: {startTime}')
 
 source_db_config = {
-    'host': '136.244.82.67',
-    'port': '3306',
-    'user': 'replicator',
-    'password': 'mF4T8E8aEx6t7',
-    'database': 'tapcard_prod'
+    'host': '',
+    'port': '',
+    'user': '',
+    'password': '',
+    'database': ''
 }
 
 local_db_config = {
